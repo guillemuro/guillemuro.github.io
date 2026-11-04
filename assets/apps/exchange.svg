@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="ex-plate" x1="5.82" y1="11.57" x2="20.18" y2="36.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1784d9"/><stop offset=".5" stop-color="#107ad5"/><stop offset="1" stop-color="#0a63c9"/>
+    </linearGradient>
+  </defs>
+  <path d="M6 4h12l6 6v14H10l-6-6V6a2 2 0 0 1 2-2z" fill="#50d9ff"/>
+  <path d="M30 4h12a2 2 0 0 1 2 2v12l-6 6H24V10z" fill="#28a8ea"/>
+  <path d="M10 24h14v14l-6 6H6a2 2 0 0 1-2-2V30z" fill="#0078d4"/>
+  <path d="M24 24h14l6 6v12a2 2 0 0 1-2 2H30l-6-6z" fill="#0364b8"/>
+  <path d="M26 15.83v18.34A1.84 1.84 0 0 1 24.17 36H12.6V14H24.17A1.84 1.84 0 0 1 26 15.83z" opacity=".1"/>
+  <path d="M25 14.83v18.34A1.84 1.84 0 0 1 23.17 35H12.6V13h10.57A1.84 1.84 0 0 1 25 14.83z" opacity=".2"/>
+  <rect x="2" y="13" width="22" height="22" rx="1.83" fill="url(#ex-plate)"/>
+  <path d="M9.4 18.4h7.7v2.15H11.9v2.3h4.6V25h-4.6v2.45h5.35v2.15H9.4z" fill="#fff"/>
+</svg>
